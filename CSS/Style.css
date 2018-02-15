@@ -15,7 +15,7 @@
 
 }
 body{
-background-color: burlywood
+background-color: rgb(0,255,188)
 }
 h1 {
     font-family: 'playfair_displayblack_italic';
@@ -23,23 +23,23 @@ h1 {
 }
 
 p {font-family:'oswald_stencilbold';
-color:darkslategray ;
+color:#B16639 ;
     font-size: 60px
 }
 #headie {
     padding: 20px;
-    border:1px black solid;
+    border:1px darkgoldenrod solid;
     margin: 30px;
-    background-color: dimgrey
+    background-color:cornflowerblue
 }
 #bodcop {
     padding: 5px;
-    border: 2px red solid;
+    border: 2px rgb(43,39,26) solid;
     margin: 10px;
-    background-color: coral;
+    background-color: #B1B22B;
 }
 .othercolor {
-    color: darkgoldenrod;
+    color: #D762FF;
     font-family: fantasy;
     font-size:20px
 }
@@ -51,7 +51,7 @@ color:darkslategray ;
      border: 30px orange solid;
     margin: 41px;
     background-image: url(imgs/d27643483d79f6906fefb41a720902e2dc5c7d7e_hq.jpg);
-    background-size: 1000px;
+    background-size: 20px;
     height: 7869px;
 }
 #mauiimg{
