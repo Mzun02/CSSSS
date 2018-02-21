@@ -60,5 +60,15 @@ color:#B16639 ;
     visibility: collapse;
 
 }
-
-
+#relative {
+    position: relative;
+    top: 20px;
+    left: 200px;
+}
+.eh {
+    font-size: 14px;
+    font-family: monospace
+}
+#absolute {
+    position: absolute
+}
